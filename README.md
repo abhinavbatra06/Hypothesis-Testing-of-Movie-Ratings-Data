@@ -5,7 +5,6 @@ The dataset consists of ratings from 1,097 research participants for 400 movies,
 # Objectives
 The primary goals of this project are:
   - Perform hypothesis testing to address specific research questions about movie ratings and viewer behavior.
-  - Apply rigorous statistical techniques with a significance level of alpha = 0.005 to minimize false positives, as per Benjamin et al. (2018).
 
 # Dataset Description
 - Movies Rated: 400
@@ -18,8 +17,8 @@ The primary goals of this project are:
     - Column 475: Gender identity (1 = female, 2 = male, 3 = self-described).
     - Column 476: Only child status (1 = yes, 0 = no, -1 = no response).
     - Column 477: Social viewing preference (1 = yes, 0 = no, -1 = no response).
-- [Dataset](#https://drive.google.com/file/d/16nWU0cfIAty315vel8_JWAPLlDp0JYA-/view?usp=sharing)
-  - Reference : Wallisch, P., & Whritner, J. (2017). Our taste in movies is highly idiosyncratic and at odds with critics.
+  - [Dataset] (#https://drive.google.com/file/d/16nWU0cfIAty315vel8_JWAPLlDp0JYA-/view?usp=sharing)
+  - [Reference] (#http://bit.ly/41NDsZS) : Wallisch, P., & Whritner, J. (2017). Our taste in movies is highly idiosyncratic and at odds with critics.
 
 # Questions addressed 
 The following questions are explored as part of the analysis:
