@@ -32,3 +32,6 @@ The following questions are explored as part of the analysis:
   - Social Watching Proportions: What proportion of movies show a social watching effect?
   - Distribution Comparison: Are the ratings distributions of Home Alone (1990) and Finding Nemo (2003) different?
   - Franchise Consistency: How many movies from selected franchises are of inconsistent quality?
+
+# Deliverable 
+  - [Link] (# https://drive.google.com/open?id=18LBkXtBEnkExU9elFFGryIJ9_m-VIBty&usp=drive_fs) to the report 
