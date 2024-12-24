@@ -19,7 +19,7 @@ The primary goals of this project are:
     - Column 476: Only child status (1 = yes, 0 = no, -1 = no response).
     - Column 477: Social viewing preference (1 = yes, 0 = no, -1 = no response).
 - [Dataset] (https://drive.google.com/file/d/16nWU0cfIAty315vel8_JWAPLlDp0JYA-/view?usp=sharing)
-
+  - Reference : Wallisch, P., & Whritner, J. (2017). Our taste in movies is highly idiosyncratic and at odds with critics.
 
 # Questions addressed 
 The following questions are explored as part of the analysis:
